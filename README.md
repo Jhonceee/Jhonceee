@@ -21,9 +21,11 @@
 
 ---
 
-## 🎯 Current Focus
-
-
+### 🚀 Current Focus
+- 🐍 Deepening my knowledge of **Python** for **Data Science** and **Machine Learning**
+- 💻 Improving as a **Full-Stack Web Developer**, mastering **HTML**, **CSS**, **JavaScript**, and related frameworks
+- ⚙️ Exploring **front-end frameworks** like React and **back-end technologies** with Python
+- 🔐 Expanding my understanding of **secure coding** and best practices in web applications
 
 ---
 
