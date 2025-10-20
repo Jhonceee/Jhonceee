@@ -47,4 +47,4 @@
 ## 📫 Connect with Me
 
 - 📧 Email: [carollo.andrea03@gmail.com](mailto:andrea.carollo03@gmail.com)  
-- 💼 LinkedIn: [www.linkedin.com/in/andrea-carollo-0b4252347](https://www.linkedin.com/in/andrea-carollo2003)  
+- 💼 LinkedIn: [www.linkedin.com/in/andrea-carollo2003](https://www.linkedin.com/in/andrea-carollo2003)
