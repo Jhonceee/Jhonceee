@@ -22,16 +22,22 @@
 - TypeScript  
 - HTML  
 - CSS  
-- MySQL  
+- Bash
+
+**Database:**  
+- MySQL
+- - SQLite
 
 **Frameworks / Libraries:**  
 - React  
-- Angular  
+- Angular
+- Flask  
 
 **Operating Systems / Tools:**  
 - Linux  
 - Git  
 - Docker
+- Postman
 
 ---
 
@@ -46,5 +52,5 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: [carollo.andrea03@gmail.com](mailto:andrea.carollo03@gmail.com)  
+- 📧 Email: [carollo.andrea03@gmail.com](mailto:carollo.andrea03@gmail.com)  
 - 💼 LinkedIn: [www.linkedin.com/in/andrea-carollo2003](https://www.linkedin.com/in/andrea-carollo2003)
