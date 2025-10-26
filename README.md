@@ -26,7 +26,7 @@
 
 **Database:**  
 - MySQL
-- - SQLite
+- SQLite
 
 **Frameworks / Libraries:**  
 - React  
