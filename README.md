@@ -54,5 +54,4 @@
 
 - 📧 Email: [carollo.andrea03@gmail.com](mailto:carollo.andrea03@gmail.com)  
 - 💼 LinkedIn: [www.linkedin.com/in/andrea-carollo2003](https://www.linkedin.com/in/andrea-carollo2003)
-- <img width="100" height="100" alt="immagine" src="https://github.com/user-attachments/assets/ac1dc931-bea4-4a27-ad89-7f0fa1f69d0a" />
- Portfolio: [https://andrea-carollo-portfolio.vercel.app/](https://andrea-carollo-portfolio.vercel.app/)
+- Portfolio: [https://andrea-carollo-portfolio.vercel.app/](https://andrea-carollo-portfolio.vercel.app/)
