@@ -19,7 +19,7 @@ Ecco alcuni dei progetti chiave a cui ho lavorato di recente.
 
 * **Personal Portfolio** | `Next.js` `React` `Tailwind CSS` `TypeScript`
     * Il mio portfolio personale (il sito linkato qui sotto), costruito da zero con un focus sul design responsive e CI/CD con Vercel.
-    * **[View Live Site](https://andrea-carollo-portfolio.vercel.app/)** | **[View Code](https://github.com/Jhonceee/my-portfolio)**
+    * **[View Live Site](https://andrea-carollo-portfolio.vercel.app/)**
 
 * **Gym Management** | `Angular` `TypeScript` `Flask` `SQLite` `Docker`
     * Una piattaforma full-stack per gestire le operazioni di una palestra con tre ruoli utente (Admin, Trainer, Cliente).
