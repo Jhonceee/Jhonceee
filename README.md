@@ -19,7 +19,7 @@ Ecco alcuni dei progetti chiave a cui ho lavorato di recente.
 
 * **Personal Portfolio** | `Next.js` `React` `Tailwind CSS` `TypeScript`
     * Il mio portfolio personale (il sito linkato qui sotto), costruito da zero con un focus sul design responsive e CI/CD con Vercel.
-    * **[View Live Site](https://andrea-carollo-portfolio.vercel.app/)**
+    * **[View Live Site](https://www.andreacarollo.dev)**
 
 * **Gym Management** | `Angular` `TypeScript` `Flask` `SQLite` `Docker`
     * Una piattaforma full-stack per gestire le operazioni di una palestra con tre ruoli utente (Admin, Trainer, Cliente).
@@ -53,4 +53,4 @@ Una panoramica delle tecnologie che uso regolarmente, allineata con il mio CV:
 
 - 📧 **Email:** [carollo.andrea03@gmail.com](mailto:carollo.andrea03@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/andrea-carollo2003](https://www.linkedin.com/in/andrea-carollo2003)
-- 💻 **Portfolio:** [andrea-carollo-portfolio.vercel.app](https://andrea-carollo-portfolio.vercel.app/)
+- 💻 **Portfolio:** [andrea-carollo-portfolio.vercel.app](https://www.andreacarollo.dev)
