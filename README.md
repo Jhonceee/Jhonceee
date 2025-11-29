@@ -53,4 +53,4 @@ Una panoramica delle tecnologie che uso regolarmente, allineata con il mio CV:
 
 - 📧 **Email:** [carollo.andrea03@gmail.com](mailto:carollo.andrea03@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/andrea-carollo2003](https://www.linkedin.com/in/andrea-carollo2003)
-- 💻 **Portfolio:** [andrea-carollo-portfolio.vercel.app](https://www.andreacarollo.dev)
+- 💻 **Portfolio:** [https://www.andreacarollo.dev](https://www.andreacarollo.dev)
