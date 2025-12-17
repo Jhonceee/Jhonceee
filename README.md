@@ -24,7 +24,7 @@ Ecco alcuni dei progetti chiave a cui ho lavorato di recente.
 * **Gym Management** | `Angular` `TypeScript` `Flask` `SQLite` `Docker`
     * Una piattaforma full-stack per gestire le operazioni di una palestra con tre ruoli utente (Admin, Trainer, Cliente).
 
-* **Coffe Capp (In Development)** | `Java` `Spring Boot` `JavaScript` `Spring Security`
+* **Coffee CApp (In Development)** | `Java` `Spring Boot` `JavaScript` `Spring Security`
     * Un'applicazione full-stack per un coffee shop (3 ruoli utente), con un backend REST API in Spring e un frontend in JavaScript puro.
 
 ---
