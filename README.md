@@ -24,7 +24,7 @@ Ecco alcuni dei progetti chiave a cui ho lavorato di recente.
 * **Gym Management** | `Angular` `TypeScript` `Flask` `SQLite` `Docker`
     * Una piattaforma full-stack per gestire le operazioni di una palestra con tre ruoli utente (Admin, Trainer, Cliente).
 
-* **Coffee CApp (In Development)** | `Java` `Spring Boot` `JavaScript` `Spring Security`
+* **Coffee CApp** | `Java` `Spring Boot` `JavaScript` `Spring Security` `JWT`
     * Un'applicazione full-stack per un coffee shop (3 ruoli utente), con un backend REST API in Spring e un frontend in JavaScript puro.
 
 ---
@@ -35,7 +35,7 @@ Una panoramica delle tecnologie che uso regolarmente, allineata con il mio CV:
 
 * **Languages:** `Python`, `Java`, `C`, `JavaScript`, `TypeScript`, `SQL`, `HTML/CSS`, `Bash`
 * **Frameworks & Libraries:** `React`, `Angular`, `Next.js`, `Node.js`, `Spring Boot`, `Flask`, `Tailwind CSS`
-* **Databases:** `MySQL`, `MongoDB`, `SQLite`
+* **Databases:** `MySQL`, `MongoDB`, `SQLite`, `Oracle`
 * **Tools & DevOps:** `Linux (Kali, Ubuntu)`, `Git`, `Docker`, `Postman`
 * **Security:** `Web App Security (OWASP)`, `Wireshark`, `Network Defense`, `Secure Coding Practices`
 
