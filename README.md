@@ -34,8 +34,8 @@ Ecco alcuni dei progetti chiave a cui ho lavorato di recente.
 Una panoramica delle tecnologie che uso regolarmente, allineata con il mio CV:
 
 * **Languages:** `Python`, `Java`, `C`, `JavaScript`, `TypeScript`, `SQL`, `HTML/CSS`, `Bash`
-* **Frameworks & Libraries:** `React`, `Angular`, `Next.js`, `Node.js`, `Spring Boot`, `Flask`, `Tailwind CSS`
-* **Databases:** `MySQL`, `MongoDB`, `SQLite`, `Oracle`
+* **Frameworks & Libraries:** `React`, `Angular`, `Next.js`, `Node.js`, `Spring Boot`, `JavaEE`, `Flask`, `Tailwind CSS`, `Bootstrap`
+* **Databases:** `MySQL`, `MongoDB`, `SQLite`, `Neo4J`, `Oracle`
 * **Tools & DevOps:** `Linux (Kali, Ubuntu)`, `Git`, `Docker`, `Postman`
 * **Security:** `Web App Security (OWASP)`, `Wireshark`, `Network Defense`, `Secure Coding Practices`
 
