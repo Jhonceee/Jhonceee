@@ -1,37 +1,34 @@
 # 👋 Hi there, I'm Andrea Carollo
 
-🎓 I hold a **Bachelor’s degree in Computer Engineering** from the *University of Palermo*, and I'm currently pursuing my **Master’s degree in Cybersecurity**.  
-💡 I’m passionate about software development, secure system design, and understanding how to defend networks.
+**Junior Software Engineer @ Sistemi Informativi (IBM Company) | M.Sc. Cybersecurity Student**
+
+I am a Full-Stack Developer with a solid background in Computer Engineering and a strong passion for Cybersecurity. I enjoy building software that is not only functional but also secure and well-designed.
 
 ---
 
 ## 🧠 About Me
 
-- 🔐 Focused on **Cybersecurity**, **Web Application Security**, and **Network Defense**  
-- 💻 Experienced in **Software Engineering**, **Web Development**, and **Automation**  
-- 🧩 Always curious about technology, open-source tools, and modern frameworks
+- 💼 Currently working as a **Junior Software Engineer** at **Sistemi Informativi** (IBM Company).
+- 🎓 Pursuing my **Master’s Degree in Cybersecurity** at the University of Palermo.
+- 💻 Passionate about modern web development and open-source tech, I love getting my hands dirty with code to build robust and attack-resistant systems.
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
+*Note: I am currently refactoring my main projects. The repositories are temporarily private, but you can find architectural details in my [portfolio](https://www.andreacarollo.dev).*
 
-Ecco alcuni dei progetti chiave a cui ho lavorato di recente.
-
+* **Coffee CApp** | `Spring Boot` `Spring Security` `JWT` `MySQL`
+    * Full-stack application featuring Role-Based Access Control (RBAC) and secure authentication via JWT.
+* **Gym Management** | `Angular` `Flask` `Docker` `SQLite`
+    * Platform for gym operations management with a focus on responsive UI and RESTful API integration.
 * **Personal Portfolio** | `Next.js` `React` `Tailwind CSS` `TypeScript`
-    * Il mio portfolio personale (il sito linkato qui sotto), costruito da zero con un focus sul design responsive e CI/CD con Vercel.
-    * **[View Live Site](https://www.andreacarollo.dev)**
-
-* **Gym Management** | `Angular` `TypeScript` `Flask` `SQLite` `Docker`
-    * Una piattaforma full-stack per gestire le operazioni di una palestra con tre ruoli utente (Admin, Trainer, Cliente).
-
-* **Coffee CApp** | `Java` `Spring Boot` `JavaScript` `Spring Security` `JWT` `MySQL`
-    * Un'applicazione full-stack per un coffee shop (3 ruoli utente), con un backend REST API in Spring e un frontend in JavaScript puro.
+    * My personal web space, built with a mobile-first approach and automated CI/CD.
 
 ---
 
 ## 🛠️ Tech Stack
 
-Una panoramica delle tecnologie che uso regolarmente, allineata con il mio CV:
+Here is a complete overview of the technologies I use:
 
 * **Languages:** `Python`, `Java`, `C`, `JavaScript`, `TypeScript`, `SQL`, `HTML/CSS`, `Bash`
 * **Frameworks & Libraries:** `React`, `Angular`, `Next.js`, `Node.js`, `Spring Boot`, `JavaEE`, `Flask`, `Tailwind CSS`, `Bootstrap`
@@ -43,14 +40,14 @@ Una panoramica delle tecnologie che uso regolarmente, allineata con il mio CV:
 
 ## 🌱 Current Focus
 
-- 🐍 Approfondire l'uso di **Python** per **Data Science** e **Machine Learning**.
-- 🔐 Espandere la mia conoscenza delle **best practice di secure coding** e della sicurezza delle applicazioni web.
-- 💻 Migliorare come **Full-Stack Developer**, costruendo progetti complessi e sicuri.
+- 🔐 Mastering **Secure Development Lifecycles** in enterprise environments.
+- 🛡️ Completing my Master's with a focus on **Network Defense** and **Cloud Security**.
+- 🏗️ Exploring **Microservices Architectures** and how to secure them.
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** [carollo.andrea03@gmail.com](mailto:carollo.andrea03@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/andrea-carollo2003](https://www.linkedin.com/in/andrea-carollo2003)
-- 💻 **Portfolio:** [https://www.andreacarollo.dev](https://www.andreacarollo.dev)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrea-carollo2003)
+[<img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />](https://www.andreacarollo.dev)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:carollo.andrea03@gmail.com)
